@@ -1,0 +1,6 @@
+docs/
+scripts/
+.github/
+tmp/
+.env*
+*.tsbuildinfo
